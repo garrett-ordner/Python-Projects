@@ -1,2 +1,2 @@
 # Python-Projects
-Repository for small python projects.
+Repository for small python projects, either original or recreated from learning resources.
